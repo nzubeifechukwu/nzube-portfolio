@@ -1,6 +1,6 @@
 # Nzubechukwu Ifechukwu
 
-nzube.ifechukwu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nzubeifechukwu/)| [GitHub](https://github.com/nzubeifechukwu)
+nzube.ifechukwu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nzubeifechukwu/) | [GitHub](https://github.com/nzubeifechukwu)
 
 ## Summary
 
@@ -8,7 +8,7 @@ I am a data scientist with 2 years of experience in data analysis, manipulation 
 
 ## Projects
 
-- **[Customer Analytics: Preparing Data for Modeling](https://github.com/nzubeifechukwu/customer-analytics):** I apply my knowledge of data types and categorical data to prepare, transform and efficiently store a dataset of trainees at a hypothetical data science training provider for data modeling.
+- **[Customer Analytics—Preparing Data for Modeling](https://github.com/nzubeifechukwu/customer-analytics):** I apply my knowledge of data types and categorical data to prepare, transform and efficiently store a dataset of trainees at a hypothetical data science training provider for data modeling.
 - **[Analyzing Crime in Los Angeles](https://github.com/nzubeifechukwu/crime-los-angeles):** I analyze crime data for Los Angeles, California to identify patterns in criminal behavior. Specifically, I explore where and when crime often occurs. I also identify the likely age ranges of most crime victims.
 - **[History of Nobel Prize Winners](https://github.com/nzubeifechukwu/history-nobel-winners):** I explore a dataset of Nobel Prize laureates to highlight some trends in the manner the prizes have been awarded.
 
