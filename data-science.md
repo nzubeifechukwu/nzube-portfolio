@@ -25,4 +25,4 @@ Check out [my GitHub profile](https://github.com/nzubeifechukwu) for more projec
 
 ## Skills
 
-Python (Programming Language) | Data Science | Data Visualization | SQL | Machine Learning | Statistics | MongoDB | API Design
+Python | Data Science | Data Visualization | SQL | Machine Learning | Statistics | MongoDB | API Design
