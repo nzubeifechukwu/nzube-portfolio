@@ -4,9 +4,13 @@
     <a href="https://www.linkedin.com/in/nzubeifechukwu/" target="_blank" rel="noopener"><strong>LinkedIn</strong></a> |
     <a href="https://github.com/nzubeifechukwu" target="_blank"><strong>GitHub</strong></a>
 </p>
+
 ## Summary
+
 I am a data scientist with 2 years of experience in data analysis, manipulation and visualization using Python. I have worked with data in different formats. I love to tell interesting stories by extracting meaningful insight from data.
+
 ## Projects
+
 - **[Customer Analytics: Preparing Data for Modeling](https://github.com/nzubeifechukwu/customer-analytics):** I apply my knowledge of data types and categorical data to prepare, transform and efficiently store a dataset of trainees at a hypothetical data science training provider for data modeling.
 - **[Analyzing Crime in Los Angeles](https://github.com/nzubeifechukwu/crime-los-angeles):** I analyze crime data for Los Angeles, California to identify patterns in criminal behavior. Specifically, I explore where and when crime often occurs. I also identify the likely age ranges of most crime victims.
 - **[History of Nobel Prize Winners](https://github.com/nzubeifechukwu/history-nobel-winners):** I explore a dataset of Nobel Prize laureates to highlight some trends in the manner the prizes have been awarded.
