@@ -1,9 +1,6 @@
-<h1 style="text-align: center;">Nzubechukwu Ifechukwu</h1>
-<p style="text-align: center;">
-    <strong>nzube.ifechukwu@gmail.com</strong> | 
-    <a href="https://www.linkedin.com/in/nzubeifechukwu/" target="_blank" rel="noopener"><strong>LinkedIn</strong></a> |
-    <a href="https://github.com/nzubeifechukwu" target="_blank"><strong>GitHub</strong></a>
-</p>
+# Nzubechukwu Ifechukwu
+
+nzube.ifechukwu@gmail.com | [LinkedIn](https://www.linkedin.com/in/nzubeifechukwu/)| [GitHub](https://github.com/nzubeifechukwu)
 
 ## Summary
 
