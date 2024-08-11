@@ -8,9 +8,9 @@ I am a data scientist with 2 years of experience in data analysis, manipulation 
 
 ## Projects
 
+- **[Modeling Car Insurance Claim Outcomes](https://github.com/nzubeifechukwu/car-insurance-claim-outcomes)**: I investigate customer data for a car insurance company and build a logistic regression model to identify features that give the most accurate predictions of whether a customer will make a claim on their insurance during the policy period.
 - **[Customer Analytics—Preparing Data for Modeling](https://github.com/nzubeifechukwu/customer-analytics)**: I apply my knowledge of data types and categorical data to prepare, transform and efficiently store a dataset of trainees at a hypothetical data science training provider for data modeling.
 - **[Airbnb Marketing Trends](https://github.com/nzubeifechukwu/airbnb-market-trends)**: I apply my data importing, cleaning and manipulation skills to explore New York City Airbnb data and report insights.
-- **[Analyzing Crime in Los Angeles](https://github.com/nzubeifechukwu/crime-los-angeles)**: I analyze crime data for Los Angeles, California to identify patterns in criminal behavior. Specifically, I explore where and when crime often occurs. I also identify the likely age ranges of most crime victims.
 
 Check out [my GitHub profile](https://github.com/nzubeifechukwu) for more projects.
 
